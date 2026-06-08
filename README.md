@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Schuyler.
+- 👋 Greetings, I’m Schuyler.
 - 👀 I’m interested in product design, website development, 3D modeling, and world domination.
 - 🌱 I’m currently learning new WebGL skills.
-- 📫 How to reach me : [redacted]
+- 📫 How to reach me : schuyler@hampledesignhouse.com
 
 <!---
 nightschuy/nightschuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
