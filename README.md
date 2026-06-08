@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nightschuy
-- 👀 I’m interested in graphic design, website development, and world domination.
-- 🌱 I’m currently learning new svelte skills.
-- 📫 How to reach me : visit my website ~ https://schuy.xyz
+- 👋 Hi, I’m Schuyler.
+- 👀 I’m interested in product design, website development, 3D modeling, and world domination.
+- 🌱 I’m currently learning new WebGL skills.
+- 📫 How to reach me : [redacted]
 
 <!---
 nightschuy/nightschuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
